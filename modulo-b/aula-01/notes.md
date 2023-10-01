@@ -6,7 +6,7 @@
 
 ### Identificadores
 
-- Podem começar com `letra $ `ou `_`
+- Podem começar com `letra`, `$` ou `_`
 - Não podem começar com `números`
 - É possível usar `letras` ou `números`
 - É possível usar `acentos` e `símbolos`
