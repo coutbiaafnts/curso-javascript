@@ -5,43 +5,43 @@
 
 ##  Módulo A - Conhecendo o JavaScript
 
-- Aula 1 – O que o JavaScript é capaz de fazer?
-- Aula 2 – Como chegamos até aqui?
-- Aula 3 – Dando os primeiros passos
-- Aula 4 – Criando o seu primeiro script
+- [x] Aula 1 – O que o JavaScript é capaz de fazer?
+- [x] Aula 2 – Como chegamos até aqui?
+- [x] Aula 3 – Dando os primeiros passos
+- [x] Aula 4 – Criando o seu primeiro script
 
 ## Módulo B - Comandos básicos do JavaScript
 
-- Aula 1 – Variáveis e Tipos primitivos
-- Aula 2 – Tratamento de dados
-- Aula 3 - Operadores (parte 01)
-- Aula 4 - Operadores (parte 02)
+- [x] Aula 5 – Variáveis e Tipos primitivos
+- [x] Aula 6 – Tratamento de dados
+- [ ] Aula 7 - Operadores (parte 01)
+- [ ] Aula 8 - Operadores (parte 02)
 
 ## Módulo C - Entendendo o DOM
 
-- Aula 1 – Introdução ao DOM
-- Aula 2 – Eventos DOM
+- [ ] Aula 9 – Introdução ao DOM
+- [ ] Aula 10 – Eventos DOM
 
 ## Módulo D - Condições em JavaScript
 
-- Aula 01 - Condições (Parte 1)
-- Aula 02 - Condições (Parte 2)
-- Aula 03 - Exercícios JavaScript (Parte 1)
-- Aula 04 - Exercícios JavaScript (Parte 2)
-- Aula 05 - Exercícios JavaScript (Parte 3)
+- [ ] Aula 11 - Condições (Parte 1)
+- [ ] Aula 12 - Condições (Parte 2)
+- [ ] Aula 13 - Exercícios JavaScript (Parte 1)
+- [ ] Aula 14 - Exercícios JavaScript (Parte 2)
+- [ ] Aula 15 - Exercícios JavaScript (Parte 3)
 
 ## Módulo E - Repetições em JavaScript
 
-- Aula 01 - Repetições (Parte 1)
-- Aula 02 - Repetições (Parte 2)
-- Aula 03 - Exercícios JavaScript (Parte 1)
-- Aula 04 - Exercícios JavaScript (Parte 2)
-- Aula 05 - Exercícios JavaScript (Parte 3)
+- [ ] Aula 16 - Repetições (Parte 1)
+- [ ] Aula 17 - Repetições (Parte 2)
+- [ ] Aula 18 - Exercícios JavaScript (Parte 1)
+- [ ] Aula 19 - Exercícios JavaScript (Parte 2)
+- [ ] Aula 20 - Exercícios JavaScript (Parte 3)
 
 ## Módulo F - Avançando os estudos em JavaScript
 
-- Aula 01 - Variáveis Compostas
-- Aula 02 - Funções
-- Aula 03 - Exercícios JavaScript (Parte 1)
-- Aula 04 - Exercícios JavaScript (Parte 2)
+- [ ] Aula 21 - Variáveis Compostas
+- [ ] Aula 22 - Funções
+- [ ] Aula 23 - Exercícios JavaScript (Parte 1)
+- [ ] Aula 24 - Exercícios JavaScript (Parte 2)
 - Próximos Passos
