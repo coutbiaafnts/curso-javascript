@@ -19,3 +19,29 @@
 
 ## Módulo C - Entendendo o DOM
 
+- Aula 1 – Introdução ao DOM
+- Aula 2 – Eventos DOM
+
+## Módulo D - Condições em JavaScript
+
+- Aula 01 - Condições (Parte 1)
+- Aula 02 - Condições (Parte 2)
+- Aula 03 - Exercícios JavaScript (Parte 1)
+- Aula 04 - Exercícios JavaScript (Parte 2)
+- Aula 05 - Exercícios JavaScript (Parte 3)
+
+## Módulo E - Repetições em JavaScript
+
+- Aula 01 - Repetições (Parte 1)
+- Aula 02 - Repetições (Parte 2)
+- Aula 03 - Exercícios JavaScript (Parte 1)
+- Aula 04 - Exercícios JavaScript (Parte 2)
+- Aula 05 - Exercícios JavaScript (Parte 3)
+
+## Módulo F - Avançando os estudos em JavaScript
+
+- Aula 01 - Variáveis Compostas
+- Aula 02 - Funções
+- Aula 03 - Exercícios JavaScript (Parte 1)
+- Aula 04 - Exercícios JavaScript (Parte 2)
+- Próximos Passos
