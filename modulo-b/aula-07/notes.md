@@ -28,7 +28,3 @@
 - x = x - 1 -> `x--` (pós-decremento)
 - x = x + 1 -> `++x` (pré-incremento)
 - x = x - 1 -> `--x` (pré-decremento)
-
-## Relacionais
-## Lógicos
-## Ternário
