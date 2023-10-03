@@ -2,12 +2,12 @@
 
 ## Aritméticos
 
-5 + 2 = 7 -> (soma)
-5 - 2 = 3 -> (Subtração)
-5 * 2 = 10 -> (multiplicação)
-5 / 2 = 2.5 -> (divisão)
-5 % 2 = 1 -> (resto da divisão inteira)
-5 ** 2 = 25 -> (Potência)
+5 + 2 = 7 -> (soma)<br>
+5 - 2 = 3 -> (Subtração)<br>
+5 * 2 = 10 -> (multiplicação)<br>
+5 / 2 = 2.5 -> (divisão)<br>
+5 % 2 = 1 -> (resto da divisão inteira)<br>
+5 ** 2 = 25 -> (Potência)<br>
 
 ## Atribuição
 
