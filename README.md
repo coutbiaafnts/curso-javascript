@@ -19,7 +19,7 @@
 
 ## Módulo C - Entendendo o DOM
 
-- [ ] Aula 9 – Introdução ao DOM
+- [x] Aula 9 – Introdução ao DOM
 - [ ] Aula 10 – Eventos DOM
 
 ## Módulo D - Condições em JavaScript
