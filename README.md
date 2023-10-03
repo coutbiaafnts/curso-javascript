@@ -15,7 +15,7 @@
 - [x] Aula 5 – Variáveis e Tipos primitivos
 - [x] Aula 6 – Tratamento de dados
 - [x] Aula 7 - Operadores (parte 01)
-- [ ] Aula 8 - Operadores (parte 02)
+- [x] Aula 8 - Operadores (parte 02)
 
 ## Módulo C - Entendendo o DOM
 
