@@ -22,4 +22,4 @@ s.toLowerCase() -> tudo para 'minúsculas'
 Formatação de number
 n.toFixed(2) -> com duas casas decimais
 n.toFixed(2).replace('.', ',') -> com duas casas decimais, substituindo "." por ","
-n.toLocaleString('pt-br', {style:'currency', currency: 'BRL' })
+n.toLocaleString('pt-br', {style:'currency', currency: 'BRL'})
