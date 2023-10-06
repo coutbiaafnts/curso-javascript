@@ -20,7 +20,7 @@
 ## Módulo C - Entendendo o DOM
 
 - [x] Aula 9 – Introdução ao DOM
-- [ ] Aula 10 – Eventos DOM
+- [x] Aula 10 – Eventos DOM
 
 ## Módulo D - Condições em JavaScript
 
@@ -45,3 +45,10 @@
 - [ ] Aula 23 - Exercícios JavaScript (Parte 1)
 - [ ] Aula 24 - Exercícios JavaScript (Parte 2)
 - Próximos Passos
+
+
+# Bibliografia recomendada
+ 1. JavaScript - Guia do Programador
+ 2. JavaScript - O Guia Definitivo
+ 3. Documentação ECMA-262 6ª Edição
+ 4. Event Reference - WDN web docs
